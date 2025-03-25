@@ -12,3 +12,4 @@ C:\Users\acheg\Downloads\MyCSharpApp\obj\Debug\net9.0\refint\MyCSharpApp.dll
 C:\Users\acheg\Downloads\MyCSharpApp\obj\Debug\net9.0\MyCSharpApp.pdb
 C:\Users\acheg\Downloads\MyCSharpApp\obj\Debug\net9.0\MyCSharpApp.genruntimeconfig.cache
 C:\Users\acheg\Downloads\MyCSharpApp\obj\Debug\net9.0\ref\MyCSharpApp.dll
+C:\Users\acheg\Downloads\MyCSharpApp\obj\Debug\net9.0\MyCSharpApp.sourcelink.json
